@@ -1,0 +1,1572 @@
+****** SMILES ******
+Data type: String
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 103
+                    Mode: Clc1c(Cl)c(-c2c(Cl)cc(Cl)c(Cl)c2)cc(Cl)c1[O-]
+
+
+****** Class *******
+Data type: String
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 5
+                    Mode: Class -1
+
+
+******* apol *******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 74
+                    Mode: 35.353966
+                    Mean: 34.61
+                  Median: 35.579689
+                     Min: 17.148172
+                     Max: 52.422001
+
+- About the distribution:
+                Variance: 35.42
+      Standard deviation: 5.95
+          First quartile: 31.53
+          Third quartile: 38.40
+     Interquartile range: 6.87
+      Number of outliers: 5
+
+
+******* ASA+ *******
+Data type: Float
+
+- About the values:
+Number of missing values: 2
+ Number of unique values: 103
+                    Mode: 74.775352
+                    Mean: 105.78
+                  Median: 98.659012
+                     Min: 8.7781153
+                     Max: 356.76486
+
+- About the distribution:
+                Variance: 3892.67
+      Standard deviation: 62.39
+          First quartile: 70.91
+          Third quartile: 139.63
+     Interquartile range: 68.72
+      Number of outliers: 3
+
+
+******* ASA- *******
+Data type: Float
+
+- About the values:
+Number of missing values: 1
+ Number of unique values: 103
+                    Mode: 427.29446
+                    Mean: 359.93
+                  Median: 389.50351
+                     Min: 122.91757
+                     Max: 622.9046
+
+- About the distribution:
+                Variance: 12371.22
+      Standard deviation: 111.23
+          First quartile: 330.86
+          Third quartile: 427.29
+     Interquartile range: 96.43
+      Number of outliers: 25
+
+
+***** a_count ******
+Data type: Integer
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 25
+                    Mode: 22
+                    Mean: 23.91
+                  Median: 22.0
+                     Min: 12
+                     Max: 43
+
+- About the distribution:
+                Variance: 23.97
+      Standard deviation: 4.90
+          First quartile: 22.00
+          Third quartile: 25.75
+     Interquartile range: 3.75
+      Number of outliers: 16
+
+
+***** a_donacc *****
+Data type: Integer
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 5
+                    Mode: 0
+                    Mean: 0.29
+                  Median: 0.0
+                     Min: 0
+                     Max: 4
+
+- About the distribution:
+                Variance: 0.74
+      Standard deviation: 0.86
+          First quartile: 0.00
+          Third quartile: 0.00
+     Interquartile range: 0.00
+      Number of outliers: 18
+
+
+***** a_heavy ******
+Data type: Float
+
+- About the values:
+Number of missing values: 1
+ Number of unique values: 24
+                    Mode: 18.0
+                    Mean: 18.88
+                  Median: 18.0
+                     Min: 10.0
+                     Max: 43.0
+
+- About the distribution:
+                Variance: 31.32
+      Standard deviation: 5.60
+          First quartile: 17.00
+          Third quartile: 19.00
+     Interquartile range: 2.00
+      Number of outliers: 42
+
+
+****** a_hyd *******
+Data type: Integer
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 23
+                    Mode: 17
+                    Mean: 17.35
+                  Median: 17.0
+                     Min: 6
+                     Max: 40
+
+- About the distribution:
+                Variance: 25.29
+      Standard deviation: 5.03
+          First quartile: 16.00
+          Third quartile: 18.00
+     Interquartile range: 2.00
+      Number of outliers: 41
+
+
+******* a_IC *******
+Data type: Float
+
+- About the values:
+Number of missing values: 1
+ Number of unique values: 65
+                    Mode: 31.578171
+                    Mean: 33.91
+                  Median: 31.868664
+                     Min: 12.0
+                     Max: 86.319427
+
+- About the distribution:
+                Variance: 94.38
+      Standard deviation: 9.71
+          First quartile: 30.54
+          Third quartile: 37.09
+     Interquartile range: 6.55
+      Number of outliers: 11
+
+
+******* a_nC *******
+Data type: Integer
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 13
+                    Mode: 12
+                    Mean: 11.65
+                  Median: 12.0
+                     Min: 6
+                     Max: 20
+
+- About the distribution:
+                Variance: 6.11
+      Standard deviation: 2.47
+          First quartile: 12.00
+          Third quartile: 12.00
+     Interquartile range: 0.00
+      Number of outliers: 60
+
+
+****** a_nCl *******
+Data type: Integer
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 10
+                    Mode: 0
+                    Mean: 3.11
+                  Median: 4.0
+                     Min: 0
+                     Max: 10
+
+- About the distribution:
+                Variance: 8.73
+      Standard deviation: 2.95
+          First quartile: 0.00
+          Third quartile: 6.00
+     Interquartile range: 6.00
+      Number of outliers: 0
+
+
+******* a_nF *******
+Data type: Integer
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 11
+                    Mode: 0
+                    Mean: 2.57
+                  Median: 0.0
+                     Min: 0
+                     Max: 27
+
+- About the distribution:
+                Variance: 40.14
+      Standard deviation: 6.34
+          First quartile: 0.00
+          Third quartile: 0.00
+     Interquartile range: 0.00
+      Number of outliers: 24
+
+
+******* a_nH *******
+Data type: Integer
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 16
+                    Mode: 4
+                    Mean: 5.04
+                  Median: 4.0
+                     Min: 0
+                     Max: 21
+
+- About the distribution:
+                Variance: 14.73
+      Standard deviation: 3.84
+          First quartile: 3.00
+          Third quartile: 7.00
+     Interquartile range: 4.00
+      Number of outliers: 2
+
+
+***** balabanJ *****
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 92
+                    Mode: 2.1321695
+                    Mean: 2.71
+                  Median: 2.0355706
+                     Min: 1.4644544
+                     Max: 7.4658461
+
+- About the distribution:
+                Variance: 2.93
+      Standard deviation: 1.71
+          First quartile: 1.91
+          Third quartile: 2.18
+     Interquartile range: 0.27
+      Number of outliers: 31
+
+
+******* bpol *******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 64
+                    Mode: 7.5660348
+                    Mean: 12.11
+                  Median: 9.14543155
+                     Min: 2.52
+                     Max: 38.475449
+
+- About the distribution:
+                Variance: 57.36
+      Standard deviation: 7.57
+          First quartile: 6.89
+          Third quartile: 13.64
+     Interquartile range: 6.74
+      Number of outliers: 18
+
+
+****** CASA+ *******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 103
+                    Mode: 113.06033
+                    Mean: 219.63
+                  Median: 168.736055
+                     Min: 39.416298
+                     Max: 1634.3398
+
+- About the distribution:
+                Variance: 42699.30
+      Standard deviation: 206.64
+          First quartile: 117.25
+          Third quartile: 240.74
+     Interquartile range: 123.49
+      Number of outliers: 9
+
+
+****** CASA- *******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 103
+                    Mode: 1073.3636
+                    Mean: 1107.38
+                  Median: 663.94385
+                     Min: 170.11516
+                     Max: 6834.02
+
+- About the distribution:
+                Variance: 1553420.15
+      Standard deviation: 1246.36
+          First quartile: 539.36
+          Third quartile: 1012.71
+     Interquartile range: 473.35
+      Number of outliers: 23
+
+
+******* chi0 *******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 61
+                    Mode: 14.317472
+                    Mean: 14.30
+                  Median: 13.447229
+                     Min: 6.8115549
+                     Max: 36.077351
+
+- About the distribution:
+                Variance: 26.98
+      Standard deviation: 5.19
+          First quartile: 11.95
+          Third quartile: 14.32
+     Interquartile range: 2.37
+      Number of outliers: 32
+
+
+****** chi0v *******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 75
+                    Mode: 12.056218
+                    Mean: 12.20
+                  Median: 12.309421
+                     Min: 5.0038619
+                     Max: 26.047859
+
+- About the distribution:
+                Variance: 9.53
+      Standard deviation: 3.09
+          First quartile: 10.39
+          Third quartile: 13.47
+     Interquartile range: 3.08
+      Number of outliers: 8
+
+
+***** chi0v_C ******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 44
+                    Mode: 6.3867512
+                    Mean: 6.26
+                  Median: 6.309401
+                     Min: 3.0
+                     Max: 10.928204
+
+- About the distribution:
+                Variance: 2.10
+      Standard deviation: 1.45
+          First quartile: 6.10
+          Third quartile: 6.54
+     Interquartile range: 0.44
+      Number of outliers: 53
+
+
+****** chi0_C ******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 47
+                    Mode: 7.5769858
+                    Mean: 7.24
+                  Median: 7.4472294
+                     Min: 3.0
+                     Max: 13.104083
+
+- About the distribution:
+                Variance: 3.51
+      Standard deviation: 1.87
+          First quartile: 7.06
+          Third quartile: 7.71
+     Interquartile range: 0.65
+      Number of outliers: 52
+
+
+******* chi1 *******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 69
+                    Mode: 8.824275
+                    Mean: 8.67
+                  Median: 8.4692345
+                     Min: 4.6983771
+                     Max: 17.943377
+
+- About the distribution:
+                Variance: 4.48
+      Standard deviation: 2.12
+          First quartile: 7.96
+          Third quartile: 8.92
+     Interquartile range: 0.96
+      Number of outliers: 40
+
+
+****** chi1v *******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 86
+                    Mode: 6.477468
+                    Mean: 6.61
+                  Median: 6.89843585
+                     Min: 2.6685977
+                     Max: 13.228053
+
+- About the distribution:
+                Variance: 2.25
+      Standard deviation: 1.50
+          First quartile: 5.94
+          Third quartile: 7.27
+     Interquartile range: 1.32
+      Number of outliers: 14
+
+
+***** chi1v_C ******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 58
+                    Mode: 3.4820509
+                    Mean: 3.45
+                  Median: 3.4820509
+                     Min: 1.25
+                     Max: 6.9700847
+
+- About the distribution:
+                Variance: 1.10
+      Standard deviation: 1.05
+          First quartile: 3.24
+          Third quartile: 3.65
+     Interquartile range: 0.41
+      Number of outliers: 50
+
+
+****** chi1_C ******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 63
+                    Mode: 4.7828231
+                    Mean: 4.66
+                  Median: 4.7828231
+                     Min: 1.25
+                     Max: 9.9158163
+
+- About the distribution:
+                Variance: 2.83
+      Standard deviation: 1.68
+          First quartile: 4.04
+          Third quartile: 5.12
+     Interquartile range: 1.08
+      Number of outliers: 35
+
+
+******* DASA *******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 103
+                    Mode: 352.5191
+                    Mean: 266.64
+                  Median: 293.04929
+                     Min: 0.030300189
+                     Max: 601.12323
+
+- About the distribution:
+                Variance: 20935.50
+      Standard deviation: 144.69
+          First quartile: 204.84
+          Third quartile: 352.52
+     Interquartile range: 147.68
+      Number of outliers: 2
+
+
+****** DCASA *******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 103
+                    Mode: 960.30334
+                    Mean: 921.07
+                  Median: 501.46729
+                     Min: 0.045450285
+                     Max: 6621.6157
+
+- About the distribution:
+                Variance: 1518328.33
+      Standard deviation: 1232.20
+          First quartile: 378.22
+          Third quartile: 833.00
+     Interquartile range: 454.78
+      Number of outliers: 23
+
+
+******* dens *******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 102
+                    Mode: 1.41772
+                    Mean: 1.43
+                  Median: 1.38840505
+                     Min: 0.87310255
+                     Max: 2.1694565
+
+- About the distribution:
+                Variance: 0.12
+      Standard deviation: 0.35
+          First quartile: 1.23
+          Third quartile: 1.55
+     Interquartile range: 0.32
+      Number of outliers: 15
+
+
+***** density ******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 74
+                    Mode: 1.0086937
+                    Mean: 1.09
+                  Median: 1.0627322
+                     Min: 0.62097263
+                     Max: 1.7619487
+
+- About the distribution:
+                Variance: 0.09
+      Standard deviation: 0.29
+          First quartile: 0.92
+          Third quartile: 1.25
+     Interquartile range: 0.33
+      Number of outliers: 1
+
+
+***** diameter *****
+Data type: Integer
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 11
+                    Mode: 9
+                    Mean: 8.64
+                  Median: 9.0
+                     Min: 5
+                     Max: 15
+
+- About the distribution:
+                Variance: 2.99
+      Standard deviation: 1.73
+          First quartile: 8.00
+          Third quartile: 9.00
+     Interquartile range: 1.00
+      Number of outliers: 29
+
+
+****** dipole ******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 102
+                    Mode: 4.5188656
+                    Mean: 1.59
+                  Median: 0.55799326
+                     Min: 0.00015000001
+                     Max: 8.8737078
+
+- About the distribution:
+                Variance: 4.67
+      Standard deviation: 2.16
+          First quartile: 0.21
+          Third quartile: 1.11
+     Interquartile range: 0.90
+      Number of outliers: 38
+
+
+****** h_logP ******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 103
+                    Mode: 6.9441652
+                    Mean: 6.31
+                  Median: 6.8795323
+                     Min: 0.018347496
+                     Max: 12.630077
+
+- About the distribution:
+                Variance: 3.78
+      Standard deviation: 1.94
+          First quartile: 5.34
+          Third quartile: 7.50
+     Interquartile range: 2.16
+      Number of outliers: 7
+
+
+****** h_logS ******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 103
+                    Mode: -7.2992711
+                    Mean: -6.40
+                  Median: -6.6943469
+                     Min: -12.304079
+                     Max: -1.1391299
+
+- About the distribution:
+                Variance: 2.64
+      Standard deviation: 1.63
+          First quartile: -7.36
+          Third quartile: -5.56
+     Interquartile range: 1.80
+      Number of outliers: 8
+
+
+**** logP(o/w) *****
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 86
+                    Mode: 6.9310002
+                    Mean: 6.41
+                  Median: 6.7405
+                     Min: -0.72600001
+                     Max: 12.8938
+
+- About the distribution:
+                Variance: 3.70
+      Standard deviation: 1.92
+          First quartile: 5.58
+          Third quartile: 7.33
+     Interquartile range: 1.75
+      Number of outliers: 13
+
+
+******* logS *******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 75
+                    Mode: -7.4827099
+                    Mean: -6.90
+                  Median: -7.4319599
+                     Min: -14.07149
+                     Max: -0.23072
+
+- About the distribution:
+                Variance: 4.18
+      Standard deviation: 2.04
+          First quartile: -8.22
+          Third quartile: -5.74
+     Interquartile range: 2.47
+      Number of outliers: 4
+
+
+******** mr ********
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 86
+                    Mode: 7.452775
+                    Mean: 6.98
+                  Median: 7.4565134
+                     Min: 2.9918706
+                     Max: 12.112706
+
+- About the distribution:
+                Variance: 2.57
+      Standard deviation: 1.60
+          First quartile: 5.74
+          Third quartile: 7.97
+     Interquartile range: 2.23
+      Number of outliers: 1
+
+
+******* npr2 *******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 103
+                    Mode: 0.93981373
+                    Mean: 0.85
+                  Median: 0.861074805
+                     Min: 0.50002575
+                     Max: 0.99732542
+
+- About the distribution:
+                Variance: 0.01
+      Standard deviation: 0.11
+          First quartile: 0.80
+          Third quartile: 0.94
+     Interquartile range: 0.14
+      Number of outliers: 6
+
+
+******* PC+ ********
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 74
+                    Mode: 1.635
+                    Mean: 2.54
+                  Median: 1.65199995
+                     Min: 1.062
+                     Max: 9.9799995
+
+- About the distribution:
+                Variance: 4.26
+      Standard deviation: 2.06
+          First quartile: 1.51
+          Third quartile: 2.03
+     Interquartile range: 0.51
+      Number of outliers: 27
+
+
+******* PC- ********
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 75
+                    Mode: -1.635
+                    Mean: -2.78
+                  Median: -1.689
+                     Min: -10.98
+                     Max: -1.062
+
+- About the distribution:
+                Variance: 5.55
+      Standard deviation: 2.36
+          First quartile: -2.51
+          Third quartile: -1.61
+     Interquartile range: 0.90
+      Number of outliers: 25
+
+
+*** PEOE_VSA_NEG ***
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 81
+                    Mode: 211.39279
+                    Mean: 208.92
+                  Median: 219.16263
+                     Min: 69.183167
+                     Max: 438.75226
+
+- About the distribution:
+                Variance: 3502.29
+      Standard deviation: 59.18
+          First quartile: 176.74
+          Third quartile: 238.17
+     Interquartile range: 61.43
+      Number of outliers: 4
+
+
+** PEOE_VSA_PNEG ***
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 16
+                    Mode: 0.0
+                    Mean: 9.76
+                  Median: 2.503756
+                     Min: 0.0
+                     Max: 59.150364
+
+- About the distribution:
+                Variance: 239.13
+      Standard deviation: 15.46
+          First quartile: 0.00
+          Third quartile: 13.57
+     Interquartile range: 13.57
+      Number of outliers: 15
+
+
+*** PEOE_VSA_POL ***
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 27
+                    Mode: 0.0
+                    Mean: 15.08
+                  Median: 2.503756
+                     Min: 0.0
+                     Max: 85.804298
+
+- About the distribution:
+                Variance: 611.78
+      Standard deviation: 24.73
+          First quartile: 0.00
+          Third quartile: 13.57
+     Interquartile range: 13.57
+      Number of outliers: 31
+
+
+** PEOE_VSA_PPOS ***
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 18
+                    Mode: 0.0
+                    Mean: 5.32
+                  Median: 0.0
+                     Min: 0.0
+                     Max: 35.843857
+
+- About the distribution:
+                Variance: 103.81
+      Standard deviation: 10.19
+          First quartile: 0.00
+          Third quartile: 0.00
+     Interquartile range: 0.00
+      Number of outliers: 37
+
+
+**** petitjean *****
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 10
+                    Mode: 0.44444445
+                    Mean: 0.44
+                  Median: 0.44444445
+                     Min: 0.2
+                     Max: 0.5
+
+- About the distribution:
+                Variance: 0.00
+      Standard deviation: 0.06
+          First quartile: 0.44
+          Third quartile: 0.46
+     Interquartile range: 0.02
+      Number of outliers: 64
+
+
+*** petitjeanSC ****
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 10
+                    Mode: 0.80000001
+                    Mean: 0.80
+                  Median: 0.80000001
+                     Min: 0.25
+                     Max: 1.0
+
+- About the distribution:
+                Variance: 0.03
+      Standard deviation: 0.16
+          First quartile: 0.80
+          Third quartile: 0.86
+     Interquartile range: 0.06
+      Number of outliers: 64
+
+
+******* pmi ********
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 103
+                    Mode: 5088.1465
+                    Mean: 5145.70
+                  Median: 4850.196550000001
+                     Min: 568.41663
+                     Max: 21944.059
+
+- About the distribution:
+                Variance: 11460838.82
+      Standard deviation: 3385.39
+          First quartile: 3294.15
+          Third quartile: 5925.81
+     Interquartile range: 2631.66
+      Number of outliers: 14
+
+
+******* pmi2 *******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 103
+                    Mode: 4233.8491
+                    Mean: 4292.41
+                  Median: 4130.0984
+                     Min: 408.21695
+                     Max: 21172.363
+
+- About the distribution:
+                Variance: 9688260.19
+      Standard deviation: 3112.60
+          First quartile: 2509.56
+          Third quartile: 4853.62
+     Interquartile range: 2344.06
+      Number of outliers: 11
+
+
+******* pmi3 *******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 103
+                    Mode: 4504.9873
+                    Mean: 4832.38
+                  Median: 4493.54075
+                     Min: 568.41663
+                     Max: 21229.143
+
+- About the distribution:
+                Variance: 9981922.14
+      Standard deviation: 3159.42
+          First quartile: 2980.99
+          Third quartile: 5664.75
+     Interquartile range: 2683.75
+      Number of outliers: 10
+
+
+****** radius ******
+Data type: Integer
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 6
+                    Mode: 5
+                    Mean: 4.79
+                  Median: 5.0
+                     Min: 3
+                     Max: 8
+
+- About the distribution:
+                Variance: 0.59
+      Standard deviation: 0.77
+          First quartile: 4.25
+          Third quartile: 5.00
+     Interquartile range: 0.75
+      Number of outliers: 15
+
+
+******* rgyr *******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 103
+                    Mode: 3.6792495
+                    Mean: 3.55
+                  Median: 3.7070432
+                     Min: 2.1058791
+                     Max: 5.5473285
+
+- About the distribution:
+                Variance: 0.37
+      Standard deviation: 0.61
+          First quartile: 3.24
+          Third quartile: 3.87
+     Interquartile range: 0.63
+      Number of outliers: 10
+
+
+******* RPC- *******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 73
+                    Mode: 0.10825688
+                    Mean: 0.15
+                  Median: 0.10915139
+                     Min: 0.081967212
+                     Max: 0.37544107
+
+- About the distribution:
+                Variance: 0.01
+      Standard deviation: 0.08
+          First quartile: 0.11
+          Third quartile: 0.17
+     Interquartile range: 0.06
+      Number of outliers: 24
+
+
+****** rsynth ******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 32
+                    Mode: 0.0
+                    Mean: 0.23
+                  Median: 0.0
+                     Min: 0.0
+                     Max: 1.0
+
+- About the distribution:
+                Variance: 0.12
+      Standard deviation: 0.34
+          First quartile: 0.00
+          Third quartile: 0.48
+     Interquartile range: 0.48
+      Number of outliers: 0
+
+
+****** SlogP *******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 76
+                    Mode: 6.6206002
+                    Mean: 5.79
+                  Median: 6.21705005
+                     Min: 0.1892
+                     Max: 11.1039
+
+- About the distribution:
+                Variance: 3.76
+      Standard deviation: 1.94
+          First quartile: 4.32
+          Third quartile: 7.27
+     Interquartile range: 2.95
+      Number of outliers: 0
+
+
+******* SMR ********
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 76
+                    Mode: 7.6928
+                    Mean: 7.23
+                  Median: 7.6928
+                     Min: 3.07305
+                     Max: 12.9958
+
+- About the distribution:
+                Variance: 2.78
+      Standard deviation: 1.67
+          First quartile: 5.96
+          Third quartile: 8.21
+     Interquartile range: 2.24
+      Number of outliers: 1
+
+
+***** std_dim1 *****
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 103
+                    Mode: 2.7995498
+                    Mean: 2.89
+                  Median: 2.8296094
+                     Min: 1.5087224
+                     Max: 5.3745217
+
+- About the distribution:
+                Variance: 0.30
+      Standard deviation: 0.55
+          First quartile: 2.79
+          Third quartile: 2.99
+     Interquartile range: 0.20
+      Number of outliers: 38
+
+
+***** std_dim2 *****
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 103
+                    Mode: 1.2387547
+                    Mean: 1.41
+                  Median: 1.366408
+                     Min: 0.98346621
+                     Max: 2.1724634
+
+- About the distribution:
+                Variance: 0.06
+      Standard deviation: 0.25
+          First quartile: 1.24
+          Third quartile: 1.58
+     Interquartile range: 0.34
+      Number of outliers: 2
+
+
+***** std_dim3 *****
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 103
+                    Mode: 1.1440145
+                    Mean: 0.70
+                  Median: 0.89608032
+                     Min: 0.00023074471
+                     Max: 1.2970085
+
+- About the distribution:
+                Variance: 0.21
+      Standard deviation: 0.46
+          First quartile: 0.01
+          Third quartile: 1.09
+     Interquartile range: 1.09
+      Number of outliers: 0
+
+
+******* TPSA *******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 17
+                    Mode: 0.0
+                    Mean: 15.80
+                  Median: 9.2299995
+                     Min: 0.0
+                     Max: 85.559998
+
+- About the distribution:
+                Variance: 428.29
+      Standard deviation: 20.70
+          First quartile: 0.00
+          Third quartile: 23.06
+     Interquartile range: 23.06
+      Number of outliers: 6
+
+
+****** VAdjEq ******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 45
+                    Mode: 0.52150291
+                    Mean: 0.52
+                  Median: 0.52150291
+                     Min: 0.26665699
+                     Max: 0.76016748
+
+- About the distribution:
+                Variance: 0.01
+      Standard deviation: 0.10
+          First quartile: 0.50
+          Third quartile: 0.56
+     Interquartile range: 0.06
+      Number of outliers: 35
+
+
+****** VAdjMa ******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 24
+                    Mode: 5.2479277
+                    Mean: 5.26
+                  Median: 5.2479277
+                     Min: 4.321928
+                     Max: 6.3923173
+
+- About the distribution:
+                Variance: 0.12
+      Standard deviation: 0.35
+          First quartile: 5.17
+          Third quartile: 5.39
+     Interquartile range: 0.22
+      Number of outliers: 30
+
+
+***** VDistEq ******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 87
+                    Mode: 2.8892987
+                    Mean: 2.83
+                  Median: 2.88108755
+                     Min: 2.1077316
+                     Max: 3.6732953
+
+- About the distribution:
+                Variance: 0.09
+      Standard deviation: 0.29
+          First quartile: 2.79
+          Third quartile: 2.93
+     Interquartile range: 0.15
+      Number of outliers: 36
+
+
+***** VDistMa ******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 87
+                    Mode: 8.2264566
+                    Mean: 8.09
+                  Median: 8.0565929
+                     Min: 6.3056221
+                     Max: 10.596491
+
+- About the distribution:
+                Variance: 0.60
+      Standard deviation: 0.78
+          First quartile: 7.87
+          Third quartile: 8.24
+     Interquartile range: 0.37
+      Number of outliers: 41
+
+
+***** vdw_area *****
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 75
+                    Mode: 257.52701
+                    Mean: 259.67
+                  Median: 269.984285
+                     Min: 131.06152
+                     Max: 478.19138
+
+- About the distribution:
+                Variance: 3398.87
+      Standard deviation: 58.30
+          First quartile: 224.73
+          Third quartile: 288.64
+     Interquartile range: 63.91
+      Number of outliers: 3
+
+
+***** vdw_vol ******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 87
+                    Mode: 146.43092748
+                    Mean: 144.08
+                  Median: 143.40735362
+                     Min: 112.24007338
+                     Max: 188.6175398
+
+- About the distribution:
+                Variance: 191.64
+      Standard deviation: 13.84
+          First quartile: 140.01
+          Third quartile: 146.59
+     Interquartile range: 6.59
+      Number of outliers: 41
+
+
+******* vol ********
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 100
+                    Mode: 265.125
+                    Mean: 246.20
+                  Median: 252.125
+                     Min: 116.25
+                     Max: 442.125
+
+- About the distribution:
+                Variance: 2324.95
+      Standard deviation: 48.22
+          First quartile: 215.34
+          Third quartile: 268.22
+     Interquartile range: 52.88
+      Number of outliers: 3
+
+
+******* VSA ********
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 103
+                    Mode: 292.15103
+                    Mean: 273.31
+                  Median: 281.160615
+                     Min: 140.10205
+                     Max: 432.12012
+
+- About the distribution:
+                Variance: 2786.12
+      Standard deviation: 52.78
+          First quartile: 246.18
+          Third quartile: 295.50
+     Interquartile range: 49.32
+      Number of outliers: 12
+
+
+***** vsa_acc ******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 10
+                    Mode: 0.0
+                    Mean: 8.08
+                  Median: 0.0
+                     Min: 0.0
+                     Max: 59.150364
+
+- About the distribution:
+                Variance: 216.73
+      Standard deviation: 14.72
+          First quartile: 0.00
+          Third quartile: 13.57
+     Interquartile range: 13.57
+      Number of outliers: 11
+
+
+***** vsa_hyd ******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 68
+                    Mode: 253.96802
+                    Mean: 239.94
+                  Median: 253.96802
+                     Min: 67.651054
+                     Max: 475.68762
+
+- About the distribution:
+                Variance: 3589.90
+      Standard deviation: 59.92
+          First quartile: 203.30
+          Third quartile: 272.26
+     Interquartile range: 68.96
+      Number of outliers: 4
+
+
+***** vsa_pol ******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 13
+                    Mode: 0.0
+                    Mean: 9.09
+                  Median: 0.0
+                     Min: 0.0
+                     Max: 59.150364
+
+- About the distribution:
+                Variance: 228.91
+      Standard deviation: 15.13
+          First quartile: 0.00
+          Third quartile: 13.57
+     Interquartile range: 13.57
+      Number of outliers: 12
+
+
+***** vsurf_A ******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 103
+                    Mode: 6.9249983
+                    Mean: 2.38
+                  Median: 0.37615619499999997
+                     Min: 0.011997948
+                     Max: 7.4299431
+
+- About the distribution:
+                Variance: 6.96
+      Standard deviation: 2.64
+          First quartile: 0.12
+          Third quartile: 4.79
+     Interquartile range: 4.66
+      Number of outliers: 0
+
+
+***** vsurf_R ******
+Data type: Float
+
+- About the values:
+Number of missing values: 7
+ Number of unique values: 104
+                    Mode: 15.020321312700002
+                    Mean: -680272103.81
+                  Median: 0.8136985931100001
+                     Min: -100000000000.0
+                     Max: 16.1155465839
+
+- About the distribution:
+                Variance: 68027210891246444544.00
+      Standard deviation: 8247860988.84
+          First quartile: 0.27
+          Third quartile: 9.97
+     Interquartile range: 9.70
+      Number of outliers: 1
+
+
+***** vsurf_S ******
+Data type: Float
+
+- About the values:
+Number of missing values: 13
+ Number of unique values: 103
+                    Mode: -195.51347700390002
+                    Mean: -66.50
+                  Median: -10.6484486256
+                     Min: -209.7695835423
+                     Max: -0.338738065884
+
+- About the distribution:
+                Variance: 5423.94
+      Standard deviation: 73.65
+          First quartile: -132.57
+          Third quartile: -3.51
+     Interquartile range: 129.06
+      Number of outliers: 0
+
+
+***** vsurf_V ******
+Data type: Float
+
+- About the values:
+Number of missing values: 18
+ Number of unique values: 103
+                    Mode: -7.686748113000001
+                    Mean: -2.50
+                  Median: -0.41135810790000005
+                     Min: -8.247236841000001
+                     Max: -0.013317722280000001
+
+- About the distribution:
+                Variance: 7.88
+      Standard deviation: 2.81
+          First quartile: -5.06
+          Third quartile: -0.13
+     Interquartile range: 4.93
+      Number of outliers: 0
+
+
+****** Weight ******
+Data type: Float
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 74
+                    Mode: 326.43698
+                    Mean: 359.81
+                  Median: 360.88199
+                     Min: 128.174
+                     Max: 959.17096
+
+- About the distribution:
+                Variance: 17677.04
+      Standard deviation: 132.96
+          First quartile: 291.99
+          Third quartile: 410.32
+     Interquartile range: 118.33
+      Number of outliers: 9
+
+
+****** zagreb ******
+Data type: Integer
+
+- About the values:
+Number of missing values: 0
+ Number of unique values: 42
+                    Mode: 100
+                    Mean: 101.35
+                  Median: 94.0
+                     Min: 46
+                     Max: 246
+
+- About the distribution:
+                Variance: 1121.41
+      Standard deviation: 33.49
+          First quartile: 88.00
+          Third quartile: 106.00
+     Interquartile range: 18.00
+      Number of outliers: 32
+
+
