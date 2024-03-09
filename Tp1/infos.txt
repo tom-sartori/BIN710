@@ -1,0 +1,6 @@
+On peut ne pas réimplémenter les algo et distances
+
+On peut supprimer la classe avec 2 représentants (ou essayer de faire de l'oversampling)
+On peut supprimer l'attribut SMILES
+
+On peut raconter un peu ce qu'on veut tant que c'est cohérent (pour l'ACP puis la distance de Mahalanobis)
