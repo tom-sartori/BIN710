@@ -1,0 +1,67 @@
+\begin{thebibliography}{10}
+
+\bibitem{mortality_website}
+Mortality rate.
+\newblock \url{https://www.worldometers.info/coronavirus/}.
+
+\bibitem{total_pop}
+World Bank.
+\newblock Total population.
+\newblock \url{https://data.worldbank.org/indicator/SP.POP.TOTL}.
+
+\bibitem{urban_pop}
+World Bank.
+\newblock Urban population.
+\newblock \url{https://data.worldbank.org/indicator/SP.URB.TOTL}.
+
+\bibitem{kaggle}
+Paul Mooney.
+\newblock Does latitude impact the spread of covid-19?
+\newblock \url{https://www.kaggle.com/code/paultimothymooney/does-latitude-impact-the-spread-of-covid-19}.
+
+\bibitem{mortality_rate}
+Paul~Timothy Mooney.
+\newblock Mortality rate.
+\newblock \url{https://www.kaggle.com/datasets/paultimothymooney/coronavirus-covid19-mortality-rate-by-country}.
+
+\bibitem{climate_classification}
+University of~Vienna.
+\newblock Climate classification.
+\newblock \url{https://koeppen-geiger.vu-wien.ac.at/data/Koeppen-Geiger-ASCII.zip}.
+
+\bibitem{climate_mortality}
+Samuel~A Sarkodie and Peter~A Owusu.
+\newblock Climate and covid-19 pandemic: effect of humidity and temperature on the outbreak in selected nordic countries.
+\newblock {\em Science of the Total Environment}, 737:140640, 2020.
+
+\bibitem{sy2021population}
+Katelyn T~L Sy, Laura~F White, and Brooke~E Nichols.
+\newblock Population density and basic reproductive number of covid-19 across united states counties.
+\newblock {\em PLoS One}, 16(4):e0249271, 2021.
+
+\bibitem{country_pos}
+Tadas Talaikis.
+\newblock Country position.
+\newblock \url{https://gist.github.com/tadast/8827699#file-countries_codes_and_coordinates-csv}.
+
+\bibitem{covid_confirmed}
+Johns~Hopkins University.
+\newblock Covid confirmed cases.
+\newblock \url{https://www.kaggle.com/datasets/sudalairajkumar/novel-corona-virus-2019-dataset/versions/143}.
+
+\bibitem{R0_wiki}
+Wikipedia.
+\newblock Basic reproduction number.
+\newblock \url{https://en.wikipedia.org/wiki/Basic_reproduction_number}.
+
+\bibitem{haversine}
+Wikipedia.
+\newblock Haversine formula.
+\newblock \url{https://en.wikipedia.org/wiki/Haversine_formula}.
+
+\bibitem{mean_temp}
+Wikipedia.
+\newblock Mean temperature.
+\newblock \url{https://en.wikipedia.org/wiki/List_of_countries_by_average_yearly_temperature}.
+
+\end{thebibliography}
